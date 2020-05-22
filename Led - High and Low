@@ -6,7 +6,7 @@ void setup()
 void loop()
 {
   digitalWrite(5, HIGH); //liga a porta 5
-  delay(1000); // espera 1000 milissegundos
+  delay(1000); //  espera 1000 milissegundos
   digitalWrite(5, LOW); // desliga porta 5
   delay(1000); 
 }
